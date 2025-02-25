@@ -12,3 +12,4 @@ bots/*/
 tsconfig.json
 database/*.json
 tailwind.config.js
+.next
